@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkmaster_country=self.webpackChunkmaster_country||[]).push([[985],{7985:(e,t,n)=>{n.r(t),n.d(t,{default:()=>c});var r=n(9155),u=n(4493);n(56);const c=function(){return r.createElement(u.A,null)}}}]);
-//# sourceMappingURL=985.b72478c00238be56c6ee.js.map
