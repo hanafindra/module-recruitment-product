@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkjob_list=self.webpackChunkjob_list||[]).push([[18],{6018:(e,t,l)=>{l.r(t),l.d(t,{default:()=>s});var n=l(366),r=l(4862),a=l(1566),u=l(1875),c=l(3289);l(4697);const s=function(){return n.createElement(n.Fragment,null,n.createElement(a.A,null),n.createElement(r.Card,{className:"overflow-hidden shadow-none rounded-md border bg-white mt-2"},n.createElement(u.A,null),n.createElement(c.A,null)))}}}]);
+//# sourceMappingURL=18.cc15496542ab96dcf7e6.js.map
