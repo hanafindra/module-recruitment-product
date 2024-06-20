@@ -24,5 +24,5 @@
     "careerApp": "http://localhost:8401/remoteEntry.js",
     "applicationFormApp": "http://localhost:8000/remoteEntry.js",
     "settingMailEngine": "http://localhost:9704/remoteEntry.js",
-    "helpdeskLogMail": "http://localhost:9801/remoteEntry.js",
+    "helpdeskLogMail": "http://localhost:9801/remoteEntry.js"
 }
