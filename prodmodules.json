@@ -23,6 +23,6 @@
     "joblistApp": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-list/remoteEntry.js",
     "jobpostingApp": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-posting/remoteEntry.js",
     "adminMailTemplateApp": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/admin-mail-template/remoteEntry.js",
-    "helpdeskLogMailApp": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/helpdesk-log-mail/remoteEntry.js",
+    "helpdeskLogMailApp": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/helpdesk-log-mail/remoteEntry.js?v=1.0.1",
     "settingMailEngineApp": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/setting-mail-engine/remoteEntry.js"
 }
