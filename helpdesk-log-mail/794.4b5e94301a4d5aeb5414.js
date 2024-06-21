@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkhelpdesk_log_mail=self.webpackChunkhelpdesk_log_mail||[]).push([[794],{9827:(e,t,l)=>{var n=l(6212);t.H=n.createRoot,n.hydrateRoot},7794:(e,t,l)=>{l.r(t);var n=l(366),r=l(9827),a=l(3694);l(9975);const c=document.getElementById("app");(0,r.H)(c).render(n.createElement(n.StrictMode,null,n.createElement((function(){return n.createElement(a.A,null)}),null)))}}]);
+//# sourceMappingURL=794.4b5e94301a4d5aeb5414.js.map

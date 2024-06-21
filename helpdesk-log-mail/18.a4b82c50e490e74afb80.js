@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkhelpdesk_log_mail=self.webpackChunkhelpdesk_log_mail||[]).push([[18],{6018:(e,l,n)=>{n.r(l),n.d(l,{default:()=>u});var s=n(366),t=n(3694);n(9975);const u=function(){return s.createElement(t.A,null)}}}]);
+//# sourceMappingURL=18.a4b82c50e490e74afb80.js.map
