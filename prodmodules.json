@@ -1,6 +1,6 @@
 {
     "loginApp": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/login/remoteEntry.js?v=1.0.2",
-    "registerApp": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/register/remoteEntry.js",
+    "registerApp": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/register/remoteEntry.js?v=1.0.1",
     "portalApp": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/portal/remoteEntry.js",
     "careerApp": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/career/remoteEntry.js",
     "masterBenefitApp": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/master-benefit/remoteEntry.js",
