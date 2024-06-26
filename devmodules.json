@@ -25,5 +25,5 @@
     "applicationFormApp": "//localhost:8000/remoteEntry.js",
     "settingMailEngine": "//localhost:9704/remoteEntry.js",
     "helpdeskLogMail": "//localhost:9801/remoteEntry.js",
-    "my_application": "//localhost:8200/remoteEntry.js"
+    "myApplicationApp": "//localhost:8200/remoteEntry.js"
 }
