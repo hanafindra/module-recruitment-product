@@ -1,7 +1,7 @@
 {
     "portal": "portal@http://localhost:8400/remoteEntry.js",
     "career": "career@http://localhost:8401/remoteEntry.js",
-    "login": "login@http://localhost:9100/remoteEntry.js",
+    "login": "login@https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/login/remoteEntry.js?v=1.0.2",
     "register": "register@http://localhost:9101/remoteEntry.js",
     "dashboard": "dashboard@http://localhost:9001/remoteEntry.js",
     "job_list": "job_list@http://localhost:9002/remoteEntry.js",
