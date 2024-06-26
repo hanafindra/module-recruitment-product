@@ -4,7 +4,7 @@
     "login": "login@https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/login/remoteEntry.js?v=1.0.2",
     "register": "register@http://localhost:9101/remoteEntry.js",
     "dashboard": "dashboard@http://localhost:9001/remoteEntry.js",
-    "job_list": "job_list@http://localhost:9002/remoteEntry.js",
+    "job_list": "job_list@https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-list/remoteEntry.js",
     "job_posting": "job_posting@http://localhost:9201/remoteEntry.js",
     "master_education": "master_education@http://localhost:9500/remoteEntry.js",
     "master_education_level": "master_education_level@http://localhost:9501/remoteEntry.js",
