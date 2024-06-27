@@ -1,0 +1,38 @@
+{
+    "portal": [
+        {"path": "/*", "scope": "portal", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/portal/remoteEntry.js?v=1.0.1"},
+        {"path": "career/*", "scope": "career", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/career/remoteEntry.js?v=1.0.1"},
+        {"path": "login", "scope": "login", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/login/remoteEntry.js?v=1.0.2"},
+        {"path": "register", "scope": "register", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/career/remoteEntry.js"},
+        {"path": "application-form", "scope": "application_form", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/application-form/remoteEntry.js?v=1.0.2"}
+    ],
+    "protected": [
+        {"path": "dashboard", "scope": "dashboard", "url": "http://localhost:9001/remoteEntry.js"},
+        {"path": "job", "scope": "job_list", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-list/remoteEntry.js"},
+        {"path": "job/posting", "scope": "job_posting", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-posting/remoteEntry.js"},
+        {"path": "job/posting/edit/:id", "scope": "job_posting", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-posting/remoteEntry.js"},
+        {"path": "job/posting/duplicate/:id", "scope": "job_posting", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-posting/remoteEntry.js"},
+        {"path": "job/posting/detail/:id", "scope": "job_posting", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-posting/remoteEntry.js"},
+        {"path": "master/education", "scope": "master_education", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/master-education/remoteEntry.js"},
+        {"path": "master/education/education-level", "scope": "master_education_level", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/master-education-level/remoteEntry.js"},
+        {"path": "master/education/faculty", "scope": "master_faculty", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/master-faculty/remoteEntry.js"},
+        {"path": "master/education/major", "scope": "master_major", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/master-major/remoteEntry.js"},
+        {"path": "master/education/degree", "scope": "master_degree", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/master-degree/remoteEntry.js"},
+        {"path": "master/qualifications", "scope": "master_skill", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/master-skill/remoteEntry.js"},
+        {"path": "master/qualifications/skill", "scope": "master_skill", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/master-skill/remoteEntry.js"},
+        {"path": "master/qualifications/certification", "scope": "master_certification", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/master-certification/remoteEntry.js"},
+        {"path": "master/career", "scope": "master_industry", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/master-industry/remoteEntry.js"},
+        {"path": "master/career/industry", "scope": "master_industry", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/master-industry/remoteEntry.js"},
+        {"path": "master/career/employment-type", "scope": "master_employment_type", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/master-employment-type/remoteEntry.js"},
+        {"path": "master/career/stream", "scope": "master_stream", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/master-stream/remoteEntry.js"},
+        {"path": "master/general/citizenship", "scope": "master_citizenship", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/master-citizenship/remoteEntry.js"},
+        {"path": "master/general/country", "scope": "master_country", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/master-country/remoteEntry.js"},
+        {"path": "master/general/region", "scope": "master_region", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/master-region/remoteEntry.js"},
+        {"path": "master/benefit", "scope": "master_benefit", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/master-benefit/remoteEntry.js"},
+        {"path": "master/option", "scope": "master_option", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/master-option/remoteEntry.js"},
+        {"path": "admin/organization", "scope": "master_organization", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/master-organization/remoteEntry.js"},
+        {"path": "admin/mail-template", "scope": "admin_mail_template", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/admin-mail-template/remoteEntry.js"},
+        {"path": "setting/engine-mail", "scope": "setting_mail_engine", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/helpdesk-log-mail/remoteEntry.js"},
+        {"path": "helpdesk/log-mail", "scope": "helpdesk_log_mail", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/setting-mail-engine/remoteEntry.js"}
+    ]
+}
