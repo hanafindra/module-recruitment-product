@@ -7,7 +7,6 @@
         {"path": "application-form", "scope": "application_form", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/application-form/remoteEntry.js?v=1.0.2"}
     ],
     "protected": [
-        {"path": "dashboard", "scope": "dashboard", "url": "http://localhost:9001/remoteEntry.js"},
         {"path": "job", "scope": "job_list", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-list/remoteEntry.js"},
         {"path": "job/posting", "scope": "job_posting", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-posting/remoteEntry.js"},
         {"path": "job/posting/edit/:id", "scope": "job_posting", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-posting/remoteEntry.js"},
