@@ -2,14 +2,14 @@
     "portal": [
         {"path": "/*", "scope": "portal", "url": "http://localhost:8400/remoteEntry.js"},
         {"path": "career/*", "scope": "career", "url": "http://localhost:8401/remoteEntry.js"},
-        {"path": "login", "scope": "login", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/login/remoteEntry.js?v=1.0.2"},
+        {"path": "login", "scope": "login", "url": "http://localhost:9100/remoteEntry.js"},
         {"path": "register", "scope": "register", "url": "http://localhost:9101/remoteEntry.js"},
         {"path": "my-application", "scope": "my_application", "url": "http://localhost:8200/remoteEntry.js"},
         {"path": "application-form", "scope": "application_form", "url": "http://localhost:8000/remoteEntry.js"}
     ],
     "protected": [
         {"path": "dashboard", "scope": "dashboard", "url": "http://localhost:9001/remoteEntry.js"},
-        {"path": "job", "scope": "job_list", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-list/remoteEntry.js"},
+        {"path": "job", "scope": "job_list", "url": "http://localhost:9002/remoteEntry.js"},
         {"path": "job/posting", "scope": "job_posting", "url": "http://localhost:9201/remoteEntry.js"},
         {"path": "job/posting/edit/:id", "scope": "job_posting", "url": "http://localhost:9201/remoteEntry.js"},
         {"path": "job/posting/duplicate/:id", "scope": "job_posting", "url": "http://localhost:9201/remoteEntry.js"},
