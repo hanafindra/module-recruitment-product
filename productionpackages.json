@@ -2,7 +2,7 @@
     "portal": [
         {"path": "/*", "scope": "portal", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/portal/remoteEntry.js?v=1.0.2"},
         {"path": "career/*", "scope": "career", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/career/remoteEntry.js?v=1.0.3"},
-        {"path": "login", "scope": "login", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/login/remoteEntry.js?v=1.0.6"},
+        {"path": "login", "scope": "login", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/login/remoteEntry.js?v=1.0.8"},
         {"path": "register", "scope": "register", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/register/remoteEntry.js?v=1.0.2"},
         {"path": "application-form/:code", "scope": "application_form", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/application-form/remoteEntry.js?v=1.0.4"},
         {"path": "my-application", "scope": "my_application", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/my-application/remoteEntry.js?=v1.0.2"}
