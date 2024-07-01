@@ -1,0 +1,8 @@
+{
+  "portal": [
+    {
+      "name": "footer",
+      "url": "footer@https://cdn.jsdelivr.net/gh/hanafindra/footer/remoteEntry.js?v=1.0.1"
+    }
+  ]
+}
