@@ -41,6 +41,7 @@
         {"path": "admin/mail-template", "scope": "admin_mail_template", "url": "http://localhost:9605/remoteEntry.js"},
         {"path": "setting/engine-mail", "scope": "setting_mail_engine", "url": "http://localhost:9704/remoteEntry.js"},
         {"path": "helpdesk/log-mail", "scope": "helpdesk_log_mail", "url": "http://localhost:9801/remoteEntry.js"},
-        {"path": "admin/application-list", "scope": "admin_application_list", "url": "http://localhost:9606/remoteEntry.js"}
+        {"path": "admin/application-list", "scope": "admin_application_list", "url": "http://localhost:9606/remoteEntry.js"},
+        {"path": "admin/application-list/applicant-detail/:id", "scope": "admin_application_detail", "url": "http://localhost:9607/remoteEntry.js"}
     ]
 }
