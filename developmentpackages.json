@@ -43,6 +43,7 @@
         {"path": "helpdesk/log-mail", "scope": "helpdesk_log_mail", "url": "http://localhost:9801/remoteEntry.js"},
         {"path": "admin/application-list", "scope": "admin_application_list", "url": "http://localhost:9606/remoteEntry.js"},
         {"path": "admin/application-list/applicant-detail/:id", "scope": "admin_application_detail", "url": "http://localhost:9607/remoteEntry.js"},
-        {"path": "screening/document", "scope": "screening_document", "url": "http://localhost:9404/remoteEntry.js"}
+        {"path": "screening/document", "scope": "screening_document", "url": "http://localhost:9404/remoteEntry.js"},
+        {"path": "job/monitoring", "scope": "job_monitoring", "url": "http://localhost:9202/remoteEntry.js"}
     ]
 }
