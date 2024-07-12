@@ -6,6 +6,7 @@
         {"path": "career_detail/*", "scope": "career_detail", "url": "http://localhost:8402/remoteEntry.js"},
         {"path": "login", "scope": "login", "url": "http://localhost:9100/remoteEntry.js"},
         {"path": "register", "scope": "register", "url": "http://localhost:9101/remoteEntry.js"},
+        {"path": "register/confirmation/:userid/:date", "scope": "register", "url": "http://localhost:9101/remoteEntry.js"},
         {"path": "my-application", "scope": "my_application", "url": "http://localhost:8200/remoteEntry.js"},
         {"path": "application-form", "scope": "application_form", "url": "http://localhost:8000/remoteEntry.js"},
         {"path": "application-form/:code", "scope": "application_form", "url": "http://localhost:8000/remoteEntry.js"},
