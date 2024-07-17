@@ -1,8 +1,0 @@
-{
-  "portal": [
-    {
-      "name": "footer",
-      "url": "footer@http://localhost:8410/remoteEntry.js"
-    }
-  ]
-}
