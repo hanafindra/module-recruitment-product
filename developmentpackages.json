@@ -6,6 +6,8 @@
         {"path": "career_detail/*", "scope": "career_detail", "url": "http://localhost:8402/remoteEntry.js"},
         {"path": "login", "scope": "login", "url": "http://localhost:9100/remoteEntry.js"},
         {"path": "register", "scope": "register", "url": "http://localhost:9101/remoteEntry.js"},
+        {"path": "register/confirmation", "scope": "register", "url": "http://localhost:9101/remoteEntry.js"},
+        {"path": "register/confirmation/:userid/:date", "scope": "register", "url": "http://localhost:9101/remoteEntry.js"},
         {"path": "my-application", "scope": "my_application", "url": "http://localhost:8200/remoteEntry.js"},
         {"path": "application-form", "scope": "application_form", "url": "http://localhost:8000/remoteEntry.js"},
         {"path": "application-form/:code", "scope": "application_form", "url": "http://localhost:8000/remoteEntry.js"},
@@ -42,6 +44,9 @@
         {"path": "setting/engine-mail", "scope": "setting_mail_engine", "url": "http://localhost:9704/remoteEntry.js"},
         {"path": "helpdesk/log-mail", "scope": "helpdesk_log_mail", "url": "http://localhost:9801/remoteEntry.js"},
         {"path": "applicant-list", "scope": "applicant_list", "url": "http://localhost:9300/remoteEntry.js"},
-        {"path": "applicant-list/applicant-detail/:id", "scope": "applicant_detail", "url": "http://localhost:9301/remoteEntry.js"}
+        {"path": "applicant-list/applicant-detail/:id", "scope": "applicant_detail", "url": "http://localhost:9301/remoteEntry.js"},
+        {"path": "screening/document", "scope": "screening_document", "url": "http://localhost:9404/remoteEntry.js"},
+        {"path": "job/monitoring", "scope": "job_monitoring", "url": "http://localhost:9202/remoteEntry.js"},
+        {"path": "stage/application", "scope": "stage_form_application", "url": "http://localhost:9400/remoteEntry.js"}
     ]
 }
