@@ -13,8 +13,7 @@
         {"path": "application-form/:code", "scope": "application_form", "url": "http://localhost:8000/remoteEntry.js"},
         {"path": "mailbox", "scope": "mailbox", "url": "http://localhost:8500/remoteEntry.js"},
         {"path": "forgot-password/*", "scope": "forgot_password", "url": "http://localhost:9102/remoteEntry.js"},
-        {"path": "forgot-password/:token/*", "scope": "forgot_password", "url": "http://localhost:9102/remoteEntry.js"},
-        {"path": "screening/document", "scope": "screening_document", "url": "http://localhost:9404/remoteEntry.js"}
+        {"path": "forgot-password/:token/*", "scope": "forgot_password", "url": "http://localhost:9102/remoteEntry.js"}
     ],
     "protected": [
         {"path": "dashboard", "scope": "dashboard", "url": "http://localhost:9001/remoteEntry.js"},
