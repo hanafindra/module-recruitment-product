@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkscreening_document=self.webpackChunkscreening_document||[]).push([[794],{9827:(e,t,n)=>{var r=n(6212);t.H=r.createRoot,r.hydrateRoot},7794:(e,t,n)=>{n.r(t);var r=n(366),c=n(9827),l=(n(9652),n(5255));const u=document.getElementById("app");(0,c.H)(u).render(r.createElement(r.StrictMode,null,r.createElement((function(){return r.createElement(l.A,null)}),null)))}}]);
-//# sourceMappingURL=794.0f341a54a94ee62405e8.js.map
