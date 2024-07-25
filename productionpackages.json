@@ -44,6 +44,8 @@
         {"path": "helpdesk/log-mail", "scope": "helpdesk_log_mail", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/setting-mail-engine/remoteEntry.js?=v1.0.2"},
         {"path": "applicant-list", "scope": "applicant_list", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/applicant-list/remoteEntry.js?=v1.0.0"},
         {"path": "applicant-list/applicant-detail/:id", "scope": "applicant_detail", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/applicant-detail/remoteEntry.js?=v1.0.0"},
-        {"path": "screening/document", "scope": "screening_document", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/screening-document/remoteEntry.js?=v1.0.3"}
+        {"path": "screening/document", "scope": "screening_document", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/screening-document/remoteEntry.js?=v1.0.3"},
+        {"path": "stage/application", "scope": "stage_form_application", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/form-application/remoteEntry.js?=v1.0.0"},
+        {"path": "stage/application/:type/*", "scope": "stage_form_application", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/form-application/remoteEntry.js?=v1.0.0"}
     ]
 }
