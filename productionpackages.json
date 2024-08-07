@@ -16,11 +16,11 @@
     ],
     "protected": [
         {"path": "dashboard", "scope": "dashboard", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/dashboard/remoteEntry.js?=v1.0.3"},
-        {"path": "job", "scope": "job_list", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-list/remoteEntry.js?=v1.0.10"},
-        {"path": "job/posting", "scope": "job_posting", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-posting/remoteEntry.js?=v1.0.16"},
-        {"path": "job/posting/edit/:id", "scope": "job_posting", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-posting/remoteEntry.js?=v1.0.16"},
-        {"path": "job/posting/duplicate/:id", "scope": "job_posting", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-posting/remoteEntry.js?=v1.0.16"},
-        {"path": "job/posting/detail/:id", "scope": "job_posting", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-posting/remoteEntry.js?=v1.0.16"},
+        {"path": "job", "scope": "job_list", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-list/remoteEntry.js?=v1.0.11"},
+        {"path": "job/posting", "scope": "job_posting", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-posting/remoteEntry.js?=v1.0.17"},
+        {"path": "job/posting/edit/:id", "scope": "job_posting", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-posting/remoteEntry.js?=v1.0.17"},
+        {"path": "job/posting/duplicate/:id", "scope": "job_posting", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-posting/remoteEntry.js?=v1.0.17"},
+        {"path": "job/posting/detail/:id", "scope": "job_posting", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-posting/remoteEntry.js?=v1.0.17"},
         {"path": "master/education", "scope": "master_education", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/master-education/remoteEntry.js?=v1.0.2"},
         {"path": "master/education/education-level", "scope": "master_education_level", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/master-education-level/remoteEntry.js?=v1.0.2"},
         {"path": "master/education/faculty", "scope": "master_faculty", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/master-faculty/remoteEntry.js?=v1.0.2"},
@@ -47,7 +47,7 @@
         {"path": "screening/document", "scope": "screening_document", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/screening-document/remoteEntry.js?=v1.0.4"},
         {"path": "stage/application", "scope": "stage_form_application", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/form-application/remoteEntry.js?=v1.0.0"},
         {"path": "stage/application/:type/*", "scope": "stage_form_application", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/form-application/remoteEntry.js?=v1.0.0"},
-        {"path": "job/monitoring", "scope": "job_monitoring", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-monitoring/remoteEntry.js?=v1.0.3"},
-        {"path": "job/monitoring/detail/:id", "scope": "job_monitoring_detail", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-monitoring-detail/remoteEntry.js?=v1.0.2"}
+        {"path": "job/monitoring", "scope": "job_monitoring", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-monitoring/remoteEntry.js?=v1.0.4"},
+        {"path": "job/monitoring/detail/:id", "scope": "job_monitoring_detail", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-monitoring-detail/remoteEntry.js?=v1.0.3"}
     ]
 }
