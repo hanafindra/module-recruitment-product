@@ -1,8 +1,8 @@
 {
     "portal": [
         {"path": "/*", "scope": "portal", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/portal/remoteEntry.js?v=1.0.6"},
-        {"path": "career", "scope": "career", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/career/remoteEntry.js?v=1.0.8"},
-        {"path": "career_detail/*", "scope": "career_detail", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/career_detail/remoteEntry.js?v=1.0.5"},
+        {"path": "career", "scope": "career", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/career/remoteEntry.js?v=1.0.9"},
+        {"path": "career_detail/*", "scope": "career_detail", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/career_detail/remoteEntry.js?v=1.0.6"},
         {"path": "login", "scope": "login", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/login/remoteEntry.js?v=1.0.13"},
         {"path": "register", "scope": "register", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/register/remoteEntry.js?v=1.0.8"},
         {"path": "register/confirmation", "scope": "register", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/register/remoteEntry.js?v=1.0.8"},
@@ -45,8 +45,8 @@
         {"path": "applicant-list", "scope": "applicant_list", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/applicant-list/remoteEntry.js?=v1.0.3"},
         {"path": "applicant-list/applicant-detail/:id", "scope": "applicant_detail", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/applicant-detail/remoteEntry.js?=v1.0.2"},
         {"path": "screening/document", "scope": "screening_document", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/screening-document/remoteEntry.js?=v1.0.4"},
-        {"path": "stage/application", "scope": "stage_form_application", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/form-application/remoteEntry.js?=v1.0.0"},
-        {"path": "stage/application/:type/*", "scope": "stage_form_application", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/form-application/remoteEntry.js?=v1.0.0"},
+        {"path": "stage/application", "scope": "stage_form_application", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/form-application/remoteEntry.js?=v1.0.1"},
+        {"path": "stage/application/:type/*", "scope": "stage_form_application", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/form-application/remoteEntry.js?=v1.0.1"},
         {"path": "job/monitoring", "scope": "job_monitoring", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-monitoring/remoteEntry.js?=v1.0.4"},
         {"path": "job/monitoring/detail/:id", "scope": "job_monitoring_detail", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-monitoring-detail/remoteEntry.js?=v1.0.3"}
     ]
