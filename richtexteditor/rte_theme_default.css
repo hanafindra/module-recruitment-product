@@ -25,7 +25,7 @@ rte-bottom {
 }*/
 
 .richtexteditor, .rte-absolute, .rte-fixed, rte-dropdown-panel {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     font-size: 14px;
 }
 
@@ -89,7 +89,7 @@ rte-codebox {
     font-size: 15px;
     line-height: 1.5;
     border: none;
-    font-family: "Consolas", "Courier New", Courier, monospace, serif;
+    font-family: "Inter", "Consolas", "Courier New", Courier, monospace, serif;
 }
 
     rte-codebox textarea {
@@ -101,7 +101,7 @@ rte-codebox {
         border: none;
         padding: 10px;
         margin: 0;
-        font-family: "Courier New", Courier, monospace, serif;
+        font-family: "Inter", "Courier New", Courier, monospace, serif;
         font-size: 14px;
         background: #FFF;
         color: #000;
@@ -191,12 +191,12 @@ rte-textcounter {
     padding: 5px 8px 3px;
     color: #999999;
     font-size:13px;
-    font-family: sans-serif;
+    font-family: "Inter", sans-serif;
     text-transform: lowercase;
 }
 rte-powerby {
     padding: 5px 8px 3px;
-    font-family: sans-serif;
+    font-family: "Inter", sans-serif;
 }
 
 
@@ -267,7 +267,7 @@ rte-ribbon-text {
     padding-top: 2px;
     color: #3e6ac1;
     background-color: #c1d9f1;
-    font-family: arial !important;
+    font-family: "Inter", arial !important;
     font-size: 11px !important;
     border-left: solid 1px #d2eaf2;
     border-bottom-left-radius: 3px;
@@ -1477,7 +1477,7 @@ rte-menutext {
 
 rte-menuarrow {
     margin-right: 4px;
-    font-family: sans-serif;
+    font-family: "Inter", sans-serif;
     font-size: 70%;
 }
 
