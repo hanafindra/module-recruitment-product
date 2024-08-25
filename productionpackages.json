@@ -52,6 +52,6 @@
         {"path": "stage/application/:type/*", "scope": "stage_form_application", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/form-application/remoteEntry.js?=v1.0.2"},
         {"path": "job/monitoring", "scope": "job_monitoring", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-monitoring/remoteEntry.js?=v1.0.5"},
         {"path": "job/monitoring/detail/:id", "scope": "job_monitoring_detail", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-monitoring-detail/remoteEntry.js?=v1.0.7"},
-        {"path": "screening/distribution", "scope": "screening_distribution", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/screening-distribution/remoteEntry.js?=v1.0.3"}
+        {"path": "screening/distribution", "scope": "screening_distribution", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/screening-distribution/remoteEntry.js?=v1.0.4"}
     ]
 }
