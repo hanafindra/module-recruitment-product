@@ -16,7 +16,7 @@
     ],
     "protected": [
         {"path": "dashboard", "scope": "dashboard", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/dashboard/remoteEntry.js?=v1.0.4"},
-        {"path": "job", "scope": "job_list", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-list/remoteEntry.js?=v1.0.15"},
+        {"path": "job", "scope": "job_list", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-list/remoteEntry.js?=v1.0.16"},
         {"path": "job/posting", "scope": "job_posting", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-posting/remoteEntry.js?=v1.0.26"},
         {"path": "job/posting/edit/:id", "scope": "job_posting", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-posting/remoteEntry.js?=v1.0.26"},
         {"path": "job/posting/duplicate/:id", "scope": "job_posting", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-posting/remoteEntry.js?=v1.0.26"},
