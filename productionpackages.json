@@ -9,7 +9,7 @@
         {"path": "register/confirmation/:userid/:date", "scope": "register", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/register/remoteEntry.js?v=1.0.9"},
         {"path": "application-form", "scope": "application_form", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/application-form/remoteEntry.js?v=1.0.40"},
         {"path": "application-form/:code", "scope": "application_form", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/application-form/remoteEntry.js?v=1.0.40"},
-        {"path": "my-application", "scope": "my_application", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/my-application/remoteEntry.js?=v1.0.12"},
+        {"path": "my-application", "scope": "my_application", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/my-application/remoteEntry.js?=v1.0.13"},
         {"path": "mailbox", "scope": "mailbox", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/mailbox/remoteEntry.js?=v1.0.3"},
         {"path": "forgot-password/*", "scope": "forgot_password", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/forgot-password/remoteEntry.js?=v1.0.5"},
         {"path": "forgot-password/:token/*", "scope": "forgot_password", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/forgot-password/remoteEntry.js?=v1.0.5"}
@@ -45,7 +45,7 @@
         {"path": "setting/docs-ai/edit", "scope": "setting_docs_ai", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/setting-docs-ai/remoteEntry.js?=v1.0.5"},
         {"path": "helpdesk/log-mail", "scope": "helpdesk_log_mail", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/helpdesk-log-mail/remoteEntry.js?=v1.0.4"},
         {"path": "applicant-list", "scope": "applicant_list", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/applicant-list/remoteEntry.js?=v1.0.5"},
-        {"path": "applicant-list/applicant-detail/:id", "scope": "applicant_detail", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/applicant-detail/remoteEntry.js?=v1.0.6"},
+        {"path": "applicant-list/applicant-detail/:id", "scope": "applicant_detail", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/applicant-detail/remoteEntry.js?=v1.0.7"},
         {"path": "screening/document", "scope": "screening_document", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/screening-document/remoteEntry.js?=v1.0.4"},
         {"path": "screening/proctoring", "scope": "screening_proctoring", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/screening-proctoring/remoteEntry.js?=v1.0.5"},
         {"path": "stage/application", "scope": "stage_form_application", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/form-application/remoteEntry.js?=v1.0.2"},
