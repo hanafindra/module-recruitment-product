@@ -52,6 +52,7 @@
         {"path": "screening/document", "scope": "screening_document", "url": "http://localhost:9404/remoteEntry.js"},
         {"path": "screening/proctoring", "scope": "screening_proctoring", "url": "http://localhost:9405/remoteEntry.js"},
         {"path": "job/monitoring", "scope": "job_monitoring", "url": "http://localhost:9202/remoteEntry.js"},
+        {"path": "job/monitoring/invited-candidate-log/:id", "scope": "job_monitoring", "url": "http://localhost:9202/remoteEntry.js"},
         {"path": "job/monitoring/detail/:id", "scope": "job_monitoring_detail", "url": "http://localhost:9203/remoteEntry.js"},
         {"path": "job/invite-candidate/:id", "scope": "job_invite_candidate", "url": "http://localhost:9204/remoteEntry.js"},
         {"path": "stage/application", "scope": "stage_form_application", "url": "http://localhost:9400/remoteEntry.js"},
