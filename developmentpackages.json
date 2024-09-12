@@ -58,6 +58,7 @@
         {"path": "job/invite-candidate/import-history", "scope": "job_invite_candidate", "url": "http://localhost:9204/remoteEntry.js"},
         {"path": "stage/application", "scope": "stage_form_application", "url": "http://localhost:9400/remoteEntry.js"},
         {"path": "stage/application/:type/*", "scope": "stage_form_application", "url": "http://localhost:9400/remoteEntry.js"},
-        {"path": "screening/distribution", "scope": "screening_distribution", "url": "http://localhost:9406/remoteEntry.js"}
+        {"path": "screening/distribution", "scope": "screening_distribution", "url": "http://localhost:9406/remoteEntry.js"},
+        {"path": "cms", "scope": "cms", "url": "http://localhost:9900/remoteEntry.js"}
     ]
 }
