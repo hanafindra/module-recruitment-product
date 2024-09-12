@@ -30,5 +30,6 @@
   "screeningDocumentApp": "//localhost:9404/remoteEntry.js",
   "screeningProctoringApp": "//localhost:9405/remoteEntry.js",
   "jobMonitoringApp": "//localhost:9202/remoteEntry.js",
-  "screeningDistributionApp": "//localhost:9406/remoteEntry.js"
+  "screeningDistributionApp": "//localhost:9406/remoteEntry.js",
+  "cmsApp": "//localhost:9900/remoteEntry.js"
 }
