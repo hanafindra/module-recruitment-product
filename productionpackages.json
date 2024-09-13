@@ -56,7 +56,7 @@
         {"path": "job/monitoring/invited-candidate-log", "scope": "job_monitoring", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-monitoring/remoteEntry.js?v=1.0.18"},
         {"path": "job/monitoring/detail/:id", "scope": "job_monitoring_detail", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-monitoring-detail/remoteEntry.js?=v1.0.11"},
         {"path": "screening/distribution", "scope": "screening_distribution", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/screening-distribution/remoteEntry.js?=v1.0.12"},
-        {"path": "job/invite-candidate", "scope": "job_invite_candidate", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-invite-candidate/remoteEntry.js?=v1.0.0"},
-        {"path": "job/invite-candidate/import-history", "scope": "job_invite_candidate", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-invite-candidate/remoteEntry.js?=v1.0.0"}
+        {"path": "job/invite-candidate", "scope": "job_invite_candidate", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-invite-candidate/remoteEntry.js?=v1.0.1"},
+        {"path": "job/invite-candidate/import-history", "scope": "job_invite_candidate", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/job-invite-candidate/remoteEntry.js?=v1.0.1"}
     ]
 }
