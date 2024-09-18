@@ -46,6 +46,7 @@
         {"path": "setting/engine-mail", "scope": "setting_mail_engine", "url": "http://localhost:9704/remoteEntry.js"},
         {"path": "setting/docs-ai", "scope": "setting_docs_ai", "url": "http://localhost:9705/remoteEntry.js"},
         {"path": "setting/docs-ai/edit", "scope": "setting_docs_ai", "url": "http://localhost:9705/remoteEntry.js"},
+        {"path": "setting/content-management", "scope": "cms", "url": "http://localhost:9900/remoteEntry.js"},
         {"path": "helpdesk/log-mail", "scope": "helpdesk_log_mail", "url": "http://localhost:9801/remoteEntry.js"},
         {"path": "applicant-list", "scope": "applicant_list", "url": "http://localhost:9300/remoteEntry.js"},
         {"path": "applicant-list/applicant-detail/:id", "scope": "applicant_detail", "url": "http://localhost:9301/remoteEntry.js"},
@@ -58,7 +59,6 @@
         {"path": "job/invite-candidate/import-history", "scope": "job_invite_candidate", "url": "http://localhost:9204/remoteEntry.js"},
         {"path": "stage/application", "scope": "stage_form_application", "url": "http://localhost:9400/remoteEntry.js"},
         {"path": "stage/application/:type/*", "scope": "stage_form_application", "url": "http://localhost:9400/remoteEntry.js"},
-        {"path": "screening/distribution", "scope": "screening_distribution", "url": "http://localhost:9406/remoteEntry.js"},
-        {"path": "cms", "scope": "cms", "url": "http://localhost:9900/remoteEntry.js"}
+        {"path": "screening/distribution", "scope": "screening_distribution", "url": "http://localhost:9406/remoteEntry.js"}
     ]
 }

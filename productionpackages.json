@@ -46,6 +46,7 @@
         {"path": "setting/engine-mail", "scope": "setting_mail_engine", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/setting-mail-engine/remoteEntry.js?=v1.0.5"},
         {"path": "setting/docs-ai", "scope": "setting_docs_ai", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/setting-docs-ai/remoteEntry.js?=v1.0.5"},
         {"path": "setting/docs-ai/edit", "scope": "setting_docs_ai", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/setting-docs-ai/remoteEntry.js?=v1.0.5"},
+        {"path": "setting/content-management", "scope": "cms", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/setting-content-management/remoteEntry.js?=v1.0.5"},
         {"path": "helpdesk/log-mail", "scope": "helpdesk_log_mail", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/helpdesk-log-mail/remoteEntry.js?=v1.0.4"},
         {"path": "applicant-list", "scope": "applicant_list", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/applicant-list/remoteEntry.js?=v1.0.5"},
         {"path": "applicant-list/applicant-detail/:id", "scope": "applicant_detail", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/applicant-detail/remoteEntry.js?=v1.0.8"},
