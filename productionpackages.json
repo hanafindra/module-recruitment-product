@@ -12,8 +12,8 @@
         {"path": "application-form/:code", "scope": "application_form", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/application-form/remoteEntry.js?v=1.0.47"},
         {"path": "my-application", "scope": "my_application", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/my-application/remoteEntry.js?=v1.0.13"},
         {"path": "mailbox", "scope": "mailbox", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/mailbox/remoteEntry.js?=v1.0.4"},
-        {"path": "forgot-password/*", "scope": "forgot_password", "url": "http://localhost:9102/forgot-password"},
-        {"path": "forgot-password/:token/*", "scope": "forgot_password", "url": "http://localhost:9102/forgot-password"}
+        {"path": "forgot-password/*", "scope": "forgot_password", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/forgot-password/remoteEntry.js?=v1.0.5"},
+        {"path": "forgot-password/:token/*", "scope": "forgot_password", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/forgot-password/remoteEntry.js?=v1.0.5"}
     ],
     "protected": [
         {"path": "dashboard", "scope": "dashboard", "url": "https://cdn.jsdelivr.net/gh/hanafindra/module-recruitment-product/dashboard/remoteEntry.js?=v1.0.4"},
