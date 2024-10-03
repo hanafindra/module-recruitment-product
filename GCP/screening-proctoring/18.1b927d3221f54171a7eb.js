@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkscreening_proctoring=self.webpackChunkscreening_proctoring||[]).push([[18],{6018:(e,n,r)=>{r.r(n),r.d(n,{default:()=>l});var t=r(366),c=(r(1639),r(4238));const l=function(){return t.createElement(t.Fragment,null,t.createElement(c.A,null),t.createElement("div",{className:"version hidden"},"1.0.1"))}}}]);
+//# sourceMappingURL=18.1b927d3221f54171a7eb.js.map

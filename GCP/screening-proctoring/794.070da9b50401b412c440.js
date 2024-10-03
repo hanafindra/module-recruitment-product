@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkscreening_proctoring=self.webpackChunkscreening_proctoring||[]).push([[794],{9827:(e,n,t)=>{var r=t(6212);n.H=r.createRoot,r.hydrateRoot},7794:(e,n,t)=>{t.r(n);var r=t(366),c=t(9827),l=(t(1639),t(4238));const a=document.getElementById("app");(0,c.H)(a).render(r.createElement(r.StrictMode,null,r.createElement((function(){return r.createElement(r.Fragment,null,r.createElement(l.A,null),r.createElement("div",{className:"version hidden"},"1.0.1"))}),null)))}}]);
+//# sourceMappingURL=794.070da9b50401b412c440.js.map

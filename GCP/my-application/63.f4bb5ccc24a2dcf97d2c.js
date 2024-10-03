@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_application=self.webpackChunkmy_application||[]).push([[63],{5063:(e,l,n)=>{n.r(l),n.d(l,{default:()=>m});var t=n(2933),a=(n(3133),n(1031)),c=n(1521),r=n(4130),u=n(6354),i=n(3329);const m=function(){return t.createElement(r.pQ,null,t.createElement(u.f1,null,t.createElement(i.r4,null,t.createElement(a.A,null,t.createElement(c.A,null),t.createElement("div",{className:"version hidden"},"1.0.1")))))}}}]);
+//# sourceMappingURL=63.f4bb5ccc24a2dcf97d2c.js.map
